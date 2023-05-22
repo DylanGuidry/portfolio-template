@@ -138,7 +138,7 @@ header.p-section {
 
 .marker-highlight:before {
   content: "";
-  background-color: #d42d2d87;
+  background-color: rgba(31, 113, 161, 0.671);
   width: 102%;
   height: 0.2em;
   position: absolute;
